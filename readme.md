@@ -21,7 +21,7 @@ github.com
 
 二、开发工具
 
-idea：
+1. idea：
 下载地址：
 
 IntelliJ IDEA: The Capable & Ergonomic Java IDE by JetBrains
@@ -59,3 +59,12 @@ https://github.com/dlong1230/MyTools/blob/4a99904fa566a3fb9aabadfee32f68ddef8c10
 ​
 github.com
 破解教程：office 2019 安装详细教程
+
+4. DBever——数据库免费软件
+https://dbeaver.io/
+
+5. finalShell——服务器连接工具
+http://www.hostbuf.com/
+
+6. Another redis desk——redis开发工具
+http://www.electronjs.org/apps/anotherredisdesktopmanager
